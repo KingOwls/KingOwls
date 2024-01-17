@@ -1,18 +1,31 @@
-# 💫 About Me:
-Soy un estudiante de programación <br>interesado en el desarrollo de videojuegos, base de datos <br>y ciberseguridad. <br>Tengo conocimientos en Python, Java y C++. <br>He trabajado en proyectos mínimos y algunos personales, <br>como Symphony of Justice. <br>En mi tiempo libre me gusta escribir y Hacer conceptos de videojuegos, <br>demostrar mis habilidades, aceptando cualquier aporte o enseñanza. <br>Siempre estoy aprendiendo y buscando nuevos temas por dominar.
+<h1 align="center">Hi 👋, I'm KingOwls</h1>
+<h3 align="center">A Student Form Campusland</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingowls&label=Profile%20views&color=0e75b6&style=flat" alt="kingowls" /> </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KingOwls&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KingOwls&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KingOwls&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on **Symphony of Justice**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KingOwls&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🌱 I’m currently learning **Game development and Unity**
 
----
-[![](https://visitcount.itsvg.in/api?id=KingOwls&icon=2&color=1)](https://visitcount.itsvg.in)
+- 🤝 I’m looking for help with **Game development**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 👨‍💻 All of my projects are available at [https://github.com/KingOwls](https://github.com/KingOwls)
+
+- ⚡ Fun fact [Part time writer](Part time writer)
+
+- 💬 Ask me about **Game development**
+
+- 📫 How to reach me **kingshadowowls@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingowls&show_icons=true&locale=en&layout=compact" alt="kingowls" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingowls&show_icons=true&locale=en" alt="kingowls" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingowls&" alt="kingowls" /></p>
