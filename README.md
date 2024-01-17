@@ -11,8 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingOwls](https://github.com/KingOwls)
 
-- ⚡ Fun fact [Part time writer](Part time writer)
-
+- ⚡ Fun fact Part time writer
+  
+- 📖 https://www.wattpad.com/user/Cuervo_Maestro
+  
 - 💬 Ask me about **Game development**
 
 - 📫 How to reach me **kingshadowowls@gmail.com**
