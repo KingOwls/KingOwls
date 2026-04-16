@@ -1,4 +1,4 @@
-<h1 align="center">🖤 Hola, soy KingOwls</h1>
+<h1 align="center">Hola, soy KingOwls</h1>
 <h3 align="center">Diseñador y Desarrollador de Videojuegos en formación</h3>
 
 <p align="center">
@@ -69,7 +69,7 @@ Mi enfoque incluye:
 
 ## 🛠️ Tecnologías y herramientas
 
-<p align="left">
+<p>
 <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
