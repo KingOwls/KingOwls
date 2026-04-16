@@ -1,33 +1,110 @@
-<h1 align="center">Hi 👋, I'm KingOwls</h1>
-<h3 align="center">A Student Form Campusland</h3>
+<h1 align="center">🖤 Hola, soy KingOwls</h1>
+<h3 align="center">Diseñador y Desarrollador de Videojuegos en formación</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingowls&label=Profile%20views&color=0e75b6&style=flat" alt="kingowls" /> </p>
-
-- 🔭 I’m currently working on **Symphony of Justice**
-
-- 🌱 I’m currently learning **Game development and Unity**
-
-- 🤝 I’m looking for help with **Game development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KingOwls](https://github.com/KingOwls)
-
-- ⚡ Fun fact Part time writer
-  
-- 📖 https://www.wattpad.com/user/Cuervo_Maestro
-  
-- 💬 Ask me about **Game development**
-
-- 📫 How to reach me **kingshadowowls@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+🐦‍⬛ Una mente en constante exploración, construyendo sistemas, mundos e ideas a través de los videojuegos
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kingowls&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="kingowls" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingowls&show_icons=true&locale=en&layout=compact" alt="kingowls" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingowls&show_icons=true&locale=en" alt="kingowls" /></p>
+## 🎮 Sobre mí
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingowls&" alt="kingowls" /></p>
+Soy un diseñador y desarrollador enfocado en **sistemas de juego**, con especial interés en:
+
+- ⚔️ Sistemas de combate y mecánicas  
+- 🎲 Economía y progresión (Gacha, MMO, RPG)  
+- 🧠 Experiencia del jugador y toma de decisiones  
+- 🧩 Lógica escalable para videojuegos  
+
+Actualmente trabajando en:
+
+> **Symphony of Justice**  
+Un proyecto centrado en diseño de sistemas, progresión y estructuras orientadas a multijugador.
+
+---
+
+## 🧪 Qué construyo
+
+No solo hago juegos.  
+Construyo **sistemas que pueden convertirse en juegos**.
+
+Mi enfoque incluye:
+
+- Sistemas de combate por turnos  
+- Inventarios y gestión de estadísticas  
+- Sistemas de diálogo y decisiones  
+- Interfaces (UI/UX) enfocadas en jugabilidad  
+- Prototipos de mecánicas para proyectos más grandes  
+
+---
+
+## 🚀 En qué estoy trabajando ahora
+
+- 🌱 Aprendiendo **Unity y arquitectura de videojuegos**
+- 🔧 Creando **prototipos pequeños para validar sistemas**
+- 🎮 Diseñando estructuras de **MMO y sistemas gacha**
+- 🧠 Mejorando mis habilidades de **análisis de videojuegos**
+
+---
+
+## 🌐 Portafolio y presencia
+
+- 🎮 Itch.io:  
+👉 https://jcrowleth.itch.io  
+
+- 💼 LinkedIn:  
+👉 https://www.linkedin.com/in/jorge-luis-osorio-808823318/  
+
+- 💻 GitHub:  
+👉 https://github.com/KingOwls  
+
+- 📖 Escritura:  
+👉 https://www.wattpad.com/user/Cuervo_Maestro  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<p align="left">
+<a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingowls&show_icons=true&locale=es&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingowls&show_icons=true&locale=es" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingowls&" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: **kingshadowowls@gmail.com**
+- 💬 Pregúntame sobre: **Diseño de videojuegos, sistemas y prototipos**
+
+---
+
+## 🐦‍⬛ Nota final
+
+> "Un buen juego no solo se juega — se entiende."
+
+Actualmente estoy construyendo esa comprensión, un sistema a la vez.
