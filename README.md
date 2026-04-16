@@ -61,10 +61,6 @@ Mi enfoque incluye:
 
 - 💻 GitHub:  
 👉 https://github.com/KingOwls  
-
-- 📖 Escritura:  
-👉 https://www.wattpad.com/user/Cuervo_Maestro  
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
