@@ -37,7 +37,6 @@ Mi enfoque incluye:
 - Sistemas de combate por turnos  
 - Inventarios y gestión de estadísticas  
 - Sistemas de diálogo y decisiones  
-- Interfaces (UI/UX) enfocadas en jugabilidad  
 - Prototipos de mecánicas para proyectos más grandes  
 
 ---
